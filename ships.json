@@ -57,5 +57,20 @@
     "Starboard Midship Turret",
     "Stern Belly Turret",
     "Stern Top Turret"
+  ],
+  "Light Fighter Squadron": [
+    "Pilot 1",
+    "Pilot 2",
+    "Pilot 3"
+  ],
+  "Medium Fighter Squadron": [
+    "Pilot 1",
+    "Pilot 2",
+    "Pilot 3"
+  ],
+  "Heavy Fighter Squadron": [
+    "Pilot 1",
+    "Pilot 2",
+    "Pilot 3"
   ]
 }
