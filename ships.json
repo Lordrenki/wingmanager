@@ -1,0 +1,5 @@
+{
+  "Hammerhead": ["Pilot", "Co-Pilot", "Turret 1", "Turret 2", "Turret 3", "Turret 4", "Engineer"],
+  "Carrack": ["Captain", "Pilot", "Co-Pilot", "Engineer", "Medic", "Turret Top", "Turret Bottom"],
+  "Redeemer": ["Pilot", "Co-Pilot", "Turret Left", "Turret Right", "Tail Turret"]
+}
