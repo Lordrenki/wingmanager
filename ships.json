@@ -40,5 +40,22 @@
     "Starboard Midship Turret",
     "Stern Belly Turret",
     "Stern Top Turret"
+  ],
+  "Crow's Nest (RSI Polaris)": [
+    "Captain",
+    "Bridge Crew 1",
+    "Bridge Crew 2",
+    "Bridge Crew 3",
+    "Bridge Crew 4",
+    "Engineer",
+    "Bombadier",
+    "Auxiliary Gunner",
+    "Bow Belly Turret",
+    "Port Forecastle Turret",
+    "Starboard Forecastle Turret",
+    "Port Midship Turret",
+    "Starboard Midship Turret",
+    "Stern Belly Turret",
+    "Stern Top Turret"
   ]
 }
