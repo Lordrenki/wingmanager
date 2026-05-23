@@ -28,10 +28,10 @@ Star Citizen org ship-assignment bot with slash-command mission boards.
    ```bash
    pip install -r requirements.txt
    ```
-5. Copy env template and set token:
+5. Copy env template and set token (the bot now auto-loads `.env`):
    ```bash
    cp .env.example .env
-   export DISCORD_TOKEN="..."
+   # edit .env and set DISCORD_TOKEN=...
    ```
 6. Edit `ships.json` presets to match your org ship staffing slots.
 7. Run:

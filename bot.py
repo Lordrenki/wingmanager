@@ -10,6 +10,7 @@ from typing import Dict, List, Optional
 import discord
 from discord import app_commands
 from discord.ext import commands
+from dotenv import load_dotenv
 
 logging.basicConfig(level=logging.INFO)
 
@@ -416,6 +417,7 @@ async def ship_name_autocomplete(interaction: discord.Interaction, current: str)
 
 
 def main() -> None:
+    load_dotenv()
     token = os.getenv("DISCORD_TOKEN")
     if not token:
         raise RuntimeError("Set DISCORD_TOKEN in environment.")
