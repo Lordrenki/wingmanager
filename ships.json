@@ -1,5 +1,44 @@
 {
-  "Hammerhead": ["Pilot", "Co-Pilot", "Turret 1", "Turret 2", "Turret 3", "Turret 4", "Engineer"],
-  "Carrack": ["Captain", "Pilot", "Co-Pilot", "Engineer", "Medic", "Turret Top", "Turret Bottom"],
-  "Redeemer": ["Pilot", "Co-Pilot", "Turret Left", "Turret Right", "Tail Turret"]
+  "Hammerhead": [
+    "Pilot",
+    "Co-Pilot",
+    "Turret 1",
+    "Turret 2",
+    "Turret 3",
+    "Turret 4",
+    "Engineer"
+  ],
+  "Carrack": [
+    "Captain",
+    "Pilot",
+    "Co-Pilot",
+    "Engineer",
+    "Medic",
+    "Turret Top",
+    "Turret Bottom"
+  ],
+  "Redeemer": [
+    "Pilot",
+    "Co-Pilot",
+    "Turret Left",
+    "Turret Right",
+    "Tail Turret"
+  ],
+  "UEES Virtus Maxima (RSI Polaris)": [
+    "Captain",
+    "Bridge Crew 1",
+    "Bridge Crew 2",
+    "Bridge Crew 3",
+    "Bridge Crew 4",
+    "Engineer",
+    "Bombadier",
+    "Auxiliary Gunner",
+    "Bow Belly Turret",
+    "Port Forecastle Turret",
+    "Starboard Forecastle Turret",
+    "Port Midship Turret",
+    "Starboard Midship Turret",
+    "Stern Belly Turret",
+    "Stern Top Turret"
+  ]
 }
